@@ -1,6 +1,6 @@
 # Integration Tests with Selenium and NUnit
 
-This project aims to demonstrate various implementations of logic that ensure the resilience of scenarios, which in turn aim to cover the entire End to End of the application.**
+This project aims to demonstrate various implementations of logic that ensure the resilience of scenarios, which in turn aim to cover the entire End to End of the application.
 
 ## Running Tests
 
