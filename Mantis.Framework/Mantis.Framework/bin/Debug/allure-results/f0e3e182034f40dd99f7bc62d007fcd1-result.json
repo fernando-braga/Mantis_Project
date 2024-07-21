@@ -1,0 +1,45 @@
+{
+  "uuid": "6b90ea7d-68d1-4596-a446-8e586e87e872",
+  "historyId": "ef8a37e46896ed61588f3b4c937bf4f9",
+  "testCaseId": "5231848310da6a62b0c3af617f4d28e5",
+  "fullName": "Mantis.Framework:Mantis.Framework.TestCases.HomePage.HomePageTests.VerifyLeftMenuIcons()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Framework.TestCases.HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "VerifyLeftMenuIcons"
+    },
+    {
+      "name": "testClass",
+      "value": "HomePageTests"
+    }
+  ],
+  "links": [],
+  "name": "VerifyLeftMenuIcons",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585758102,
+  "stop": 1721585770512
+}

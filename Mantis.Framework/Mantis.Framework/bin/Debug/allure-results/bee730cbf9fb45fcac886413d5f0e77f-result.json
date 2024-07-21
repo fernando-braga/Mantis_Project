@@ -1,0 +1,45 @@
+{
+  "uuid": "002582d3-7031-4e26-9495-f867758cb5fa",
+  "historyId": "b920cb843a53cd497174a08ae46832f6",
+  "testCaseId": "9209f584aa07b0e15cd905f409cac9da",
+  "fullName": "Mantis.Framework:Mantis.Framework.TestCases.HomePage.HomePageTests.SearchIssueByID()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Framework.TestCases.HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "SearchIssueByID"
+    },
+    {
+      "name": "testClass",
+      "value": "HomePageTests"
+    }
+  ],
+  "links": [],
+  "name": "SearchIssueByID",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585744027,
+  "stop": 1721585758102
+}

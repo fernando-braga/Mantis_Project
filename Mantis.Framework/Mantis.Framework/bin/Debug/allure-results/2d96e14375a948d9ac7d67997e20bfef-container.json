@@ -1,0 +1,12 @@
+{
+  "uuid": "11ddf513-2319-4b4e-aabd-afdc17690089",
+  "name": "Mantis.Framework.TestCases.ViewIssuesTests.SearchForIssueById",
+  "children": [
+    "6ee49236-922f-4300-9bce-2f29b7ecee54"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1721585870902,
+  "stop": 1721585884285
+}

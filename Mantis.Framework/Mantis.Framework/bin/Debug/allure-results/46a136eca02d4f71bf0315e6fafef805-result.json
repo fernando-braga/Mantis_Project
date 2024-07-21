@@ -1,0 +1,45 @@
+{
+  "uuid": "929a1412-feca-40a3-9df9-7b9921bef04f",
+  "historyId": "bb41765a6ece60d73c99ab39b2e3a668",
+  "testCaseId": "08e50f362cc4df4dc224d8d81eab0fef",
+  "fullName": "Mantis.Framework:Mantis.Framework.TestCases.ViewIssuesTests.ApplyFilterForInexistentIssue()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Framework.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "ApplyFilterForInexistentIssue"
+    },
+    {
+      "name": "testClass",
+      "value": "ViewIssuesTests"
+    }
+  ],
+  "links": [],
+  "name": "ApplyFilterForInexistentIssue",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585847862,
+  "stop": 1721585870898
+}

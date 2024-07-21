@@ -1,0 +1,16 @@
+{
+  "uuid": "4fcca83d-c666-447f-aac9-a6a280e11f1c",
+  "name": "Mantis.Framework.TestCases.ViewIssuesTests",
+  "children": [
+    "4f5e30e2-cdee-435e-b96c-b0f98a4418e6",
+    "929a1412-feca-40a3-9df9-7b9921bef04f",
+    "6ee49236-922f-4300-9bce-2f29b7ecee54",
+    "ed570ebd-44fc-49e2-88e9-a16afbbdf1f3",
+    "fcc5f14c-a57a-44d7-9a20-9cd908c77927"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1721585828175,
+  "stop": 1721585938812
+}

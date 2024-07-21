@@ -1,0 +1,13 @@
+{
+  "uuid": "9b3f26e2-ce97-4e1a-9366-992a7ea89efd",
+  "name": "Mantis.Tests.TestCases.Login.LoginPageTests",
+  "children": [
+    "63c4ad67-ea4b-4f2c-9e66-8af73176ae79",
+    "7b74ac48-d8cc-44d2-b151-91e9faa9dd93"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1721585938828,
+  "stop": 1721585950351
+}

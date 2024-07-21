@@ -1,0 +1,40 @@
+﻿# Compiled binary
+/bin/
+/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+/packages/
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+# except build/, which is used as an MSBuild target.
+!packages/build/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Visual Studio cache files
+.vscode/
+/.vs/

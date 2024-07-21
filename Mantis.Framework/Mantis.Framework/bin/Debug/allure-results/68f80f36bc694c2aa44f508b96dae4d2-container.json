@@ -1,0 +1,12 @@
+{
+  "uuid": "b880a052-7b24-400a-9d18-bad0b506f8c2",
+  "name": "Mantis.Tests.TestCases.Login.LoginPageTests.LoginIntoApplication",
+  "children": [
+    "63c4ad67-ea4b-4f2c-9e66-8af73176ae79"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1721585938844,
+  "stop": 1721585946015
+}

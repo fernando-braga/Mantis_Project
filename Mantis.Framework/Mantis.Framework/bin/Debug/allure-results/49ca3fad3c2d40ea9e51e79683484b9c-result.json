@@ -1,0 +1,45 @@
+{
+  "uuid": "a8f69e16-c37f-4b95-9ac7-826d699d897c",
+  "historyId": "bed465809b55bb490f76e17281d2e19c",
+  "testCaseId": "ded89ab2fb07840b4d800b9ec3b2283c",
+  "fullName": "Mantis.Framework:Mantis.Framework.TestCases.HomePage.HomePageTests.VerifyTimelineBox()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Framework.TestCases.HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "VerifyTimelineBox"
+    },
+    {
+      "name": "testClass",
+      "value": "HomePageTests"
+    }
+  ],
+  "links": [],
+  "name": "VerifyTimelineBox",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585770512,
+  "stop": 1721585784046
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "fcc5f14c-a57a-44d7-9a20-9cd908c77927",
+  "historyId": "d24f2e18fe932b02b901191429c2fb4b",
+  "testCaseId": "ffe8dd336f6d4a02f46cd8eeeecb539e",
+  "fullName": "Mantis.Framework:Mantis.Framework.TestCases.ViewIssuesTests.ViewingIssuesSection()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Framework.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "ViewingIssuesSection"
+    },
+    {
+      "name": "testClass",
+      "value": "ViewIssuesTests"
+    }
+  ],
+  "links": [],
+  "name": "ViewingIssuesSection",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585904565,
+  "stop": 1721585938812
+}

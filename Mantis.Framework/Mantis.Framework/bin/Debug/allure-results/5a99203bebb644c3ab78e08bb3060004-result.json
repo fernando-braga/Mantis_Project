@@ -1,0 +1,45 @@
+{
+  "uuid": "8fb884c0-7555-4a33-9454-f2731893eebf",
+  "historyId": "7b419f03deca729ed07177aa9a19ccd7",
+  "testCaseId": "4b3e9b2f3f6fd15559e2b604cf64aa7c",
+  "fullName": "Mantis.Framework:Mantis.Framework.TestCases.HomePage.HomePageTests.GoToReportIssueFromHomePage()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Framework.TestCases.HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "GoToReportIssueFromHomePage"
+    },
+    {
+      "name": "testClass",
+      "value": "HomePageTests"
+    }
+  ],
+  "links": [],
+  "name": "GoToReportIssueFromHomePage",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585729760,
+  "stop": 1721585744017
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "6b4b0821-4444-4724-a370-d8909c52deed",
+  "name": "Mantis.Framework.TestCases.HomePage.HomePageTests.VerifyTimelineBox",
+  "children": [
+    "a8f69e16-c37f-4b95-9ac7-826d699d897c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1721585770512,
+  "stop": 1721585784046
+}

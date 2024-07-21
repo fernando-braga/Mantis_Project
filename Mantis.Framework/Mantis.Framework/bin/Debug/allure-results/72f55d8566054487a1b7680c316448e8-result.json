@@ -1,0 +1,45 @@
+{
+  "uuid": "7b74ac48-d8cc-44d2-b151-91e9faa9dd93",
+  "historyId": "d743f87e529611c5e51ee657cdfc5f72",
+  "testCaseId": "1ce76e70794133497aa91a2aeba7e44f",
+  "fullName": "Mantis.Framework:Mantis.Tests.TestCases.Login.LoginPageTests.VerifyLoginPageTitle()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Tests.TestCases.Login"
+    },
+    {
+      "name": "testMethod",
+      "value": "VerifyLoginPageTitle"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginPageTests"
+    }
+  ],
+  "links": [],
+  "name": "VerifyLoginPageTitle",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585946019,
+  "stop": 1721585950336
+}

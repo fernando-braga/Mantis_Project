@@ -1,0 +1,12 @@
+{
+  "uuid": "34da113b-867c-40d1-af76-85657164880a",
+  "name": "Mantis.Framework.TestCases.HomePage.HomePageTests.VerifyLeftMenuIcons",
+  "children": [
+    "6b90ea7d-68d1-4596-a446-8e586e87e872"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1721585758102,
+  "stop": 1721585770512
+}

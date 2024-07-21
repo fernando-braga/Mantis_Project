@@ -1,0 +1,45 @@
+{
+  "uuid": "63c4ad67-ea4b-4f2c-9e66-8af73176ae79",
+  "historyId": "3a69848a765673121df5a28b0cc6643d",
+  "testCaseId": "dde161f3a9f192a9642323310000eac8",
+  "fullName": "Mantis.Framework:Mantis.Tests.TestCases.Login.LoginPageTests.LoginIntoApplication()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "FERNANDO-BRAGA"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Mantis.Tests.TestCases.Login"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginIntoApplication"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginPageTests"
+    }
+  ],
+  "links": [],
+  "name": "LoginIntoApplication",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1721585938844,
+  "stop": 1721585946012
+}
